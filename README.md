@@ -12,7 +12,7 @@
 - [Donation](#donation)
 
 ## About
-![demo-gif](/resources/animated.gif?raw=true "demo")
+![demo-gif](/resources/animation.gif?raw=true "demo")
 
 Feeling bored with basic picture wallpapers? Want to play a quick game while all windows are minimzed? Well why not just run a full gameboy emulator as desktop wallpaper!
 
