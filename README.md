@@ -8,7 +8,8 @@
 - [Download](#download)
 - [Features](#features)
 - [Issues](#issues)
-- [Frequently Asked Questions](#frequently-asked-questions)
+- [FAQ](#faq)
+- [Attribution](#attribution)
 - [Donation](#donation)
 
 ## About
@@ -21,12 +22,17 @@ Don't want to play? then disable keyboard input & use Macro input, save sequence
 Don't worry about performance overhead, it will pause when running fullscreen games or application.
 
 ## Download
-##### Latest version: v0.1
-coming soon
+##### Latest version: v0.1 (Windows 10 Only)
+ - [`Gameboy Wallpaper.zip`][direct-win32]  
+   _(SHA-256: 523a4a48f6010eb241383a0d6dacf6a3be3d34aafe057100968914cff00db809)_
+
+[direct-win32]: https://github.com/rocksdanister/GBWallpaper/releases/download/0.1/Gameboy.Wallpaper.zip
 
 Save files & settings are stored in <username>\Saved Games\GBWallpaper.
 
 ## Features
+![demo-gif2](/resources/animation2.gif?raw=true "demo2")
+
 * Different layouts styles.
 * Emulator will pause when running fullscreen application or games (~0% cpu & gpu usage).
 * Sound & keyboard input will get disabled when not on desktop, game will continue to run.
@@ -44,14 +50,14 @@ Save files & settings are stored in <username>\Saved Games\GBWallpaper.
 * Bug fixes.
 
 ## Issues
-* SUPER MARIOLAND crash after sometime.
-* Certain games don't run.
+* SUPER MARIOLAND crash in menuscreen.
+* Keyboard input sustaining if you hold and change window focus.
 * Currently disabled on multimonitors systems due to bugs/further testing required.
 * Certain applications will interfere with window focus, will require user to click on desktop to give input.
 
-## Frequently Asked Questions
+## FAQ
 ### Who asked for this?
-Saw the suggestion on discord chat, got intrigued; took me longer than expected to make. Is this useless? maybe. Did I waste my time? Possibly. It was fun to make nonetheless :)
+Saw the suggestion on discord chat, got intrigued; took me longer than expected to make. Is this useless? maybe. Did I waste my time? Possibly. It was a good learning experience & fun to make.
 
 ### High system usage?
 The default style of blurred background is a bit expensive if you don't have dedicated graphics, just use different layout style such as "Simple". Regardless, when fullscreen application or game run it will goto ~0% usage.
@@ -61,6 +67,14 @@ Certain applications can interfere with focus, just click on desktop or taskbar 
 
 ### Where is the source code?
 I will update it later after cleanup & final update.
+
+## Attribution
+
+The following projects made this possible:
+
+Unity-gb : https://github.com/KonsomeJona/unity-gb (MIT License)
+
+Octokit.net : https://github.com/octokit/octokit.net (MIT License)
 
 ## Donation
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P1U8NQ)
