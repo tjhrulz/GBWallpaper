@@ -26,7 +26,7 @@ Don't worry about performance overhead, it will pause when running fullscreen ga
  - [`Gameboy Wallpaper.zip`][direct-win32]  
    _(SHA-256: 523a4a48f6010eb241383a0d6dacf6a3be3d34aafe057100968914cff00db809)_
 
-[direct-win32]: https://github.com/rocksdanister/GBWallpaper/releases/download/0.1/Gameboy.Wallpaper.zip
+[direct-win32]: https://github.com/rocksdanister/GBWallpaper/releases/download/v0.1/Gameboy.Wallpaper.zip
 
 Save files & settings are stored in <username>\Saved Games\GBWallpaper.
 
