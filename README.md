@@ -28,6 +28,7 @@ Don't worry about performance overhead, it will pause when running fullscreen ga
 
 [direct-win32]: https://github.com/rocksdanister/GBWallpaper/releases/download/v0.1/Gameboy.Wallpaper.zip
 
+Unzip the file, select Start.exe to get started.
 Save files & settings are stored in <username>\Saved Games\GBWallpaper.
 
 ## Features
