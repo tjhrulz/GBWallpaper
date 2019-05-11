@@ -13,7 +13,7 @@
 - [Donation](#donation)
 
 ## About
-![demo-gif](/resources/animation.gif?raw=true "demo")
+![demo-gif](./resources/animation.gif?raw=true "demo")
 
 Feeling bored with basic picture wallpapers? Want to play a quick game while all windows are minimzed? Well why not just run a full gameboy emulator as desktop wallpaper!
 
@@ -33,7 +33,7 @@ Unzip the file, select Start.exe to get started.
 Save files & settings are stored in <username>\Saved Games\GBWallpaper.
 
 ## Features
-![demo-gif2](/resources/animation2.gif?raw=true "demo2")
+![demo-gif2](./resources/animation2.gif?raw=true "demo2")
 
 * Different layouts styles.
 * Emulator will pause when running fullscreen application or games (~0% cpu & gpu usage).
