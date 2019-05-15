@@ -27,6 +27,7 @@ $(document).ready(function(){
         $(".navigation").removeClass("animated");
     }});
 
+    /*
     $('#countdown_dashboard').countDown({
         targetDate: {
             'day':      30,
@@ -38,6 +39,7 @@ $(document).ready(function(){
         },
         omitWeeks: true
     });
+    */
 
     $(".about-slider").owlCarousel(
         {
@@ -56,7 +58,7 @@ $(document).ready(function(){
         $(this).attr('placeholder', $(this).data('holder'));
     });*/
 
-
+    /*
     //contact form validation
     $("#contact-form").validate({
         rules: {
@@ -105,7 +107,7 @@ $(document).ready(function(){
             });
         }
     });
-
+	*/
 });
 
 
